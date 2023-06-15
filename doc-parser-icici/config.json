@@ -1,0 +1,37 @@
+{
+
+"Annex to Ops" : ["application number?",
+                    "iLENS ID",
+                    "loan ID",
+                    "primary product",
+                    "amount?",
+                    "tenure?"] ,
+                    
+"Accepted CAL" : ["hi"
+],
+                    
+"addendum" : ["stamp duty?","certificate number",
+                "issued date", "issued by?","state?",
+                "puchased by?","stamp duty paid by?",
+                "first party?","second party?"] ,
+                
+"birth certificate" : ["name of child?","mother name","sex",
+                     "date of birth?","place of birth?",
+                     "name of father?","registration number","registration date"],
+                     
+"Bank Statement" : ["customer id?","branch name","IFSC code?", "micr code?",
+                    "account number?","statement period?","customer name","account name",
+                     "date","account type","currency","account branch","cost ID","IFS code"],
+                     
+"CA CS Certificate for Sec 180 1 ( c )" : ["credit arrangement letter number","AGM date"],
+
+"Director'sBorrower's Undertaking" : ["stamp duty?","certificate number","issued date", 
+                    "issued by?","state?","puchased by?","stamp duty paid by?",
+                   "first party?","second party?","loan amount", "borrower name", "CAL number"],
+                   
+"Revival letter" : ["Working Capital Consortium Agreement date"],
+
+"Board Resolution" : ["Working Capital?"]
+
+
+}
