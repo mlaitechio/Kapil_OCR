@@ -1,0 +1,8 @@
+{ 
+    "statusCode": 200,
+    "errorMessage": "",
+    "caseNo": "CASE001", //Same as Request
+    "documentId": "", //Same as Request
+    "documentName": "", //Same as Request
+    "txnId":"b625b52d-0d71-4a7a-a9ee-c2b659e5f5ab"
+}
