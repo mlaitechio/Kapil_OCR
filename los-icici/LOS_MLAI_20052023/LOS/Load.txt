@@ -1,9 +1,0 @@
-Avg per day volume of transactions – 300 (Max: 750)
-Avg per minute volume of transactions -  9 am – 6 pm, 100 documents in a range of 5 minutes
-Avg concurrent users of the application – 175 
-Avg No of documents per transaction – 10
-Avg total size of documents per transaction – Max – 30 MB, Avg – 15 MB
-Avg & Max document size . Average – 1.5 MB, Max – 6 MB
-Avg & Max number of pages in a document  - Average – 20 pages Max - 40 pages 
-Expected Processing / response time – defer to Mani on this.
-Supported file extensions/types – PDF, Tiff, Doc (system generated)
